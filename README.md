@@ -14,7 +14,7 @@ This document was designed to be a useful, informational asset for those looking
 * [Persistence](#persistence)
 * [Defense & Detection](#defense-&-detection)
 * [for latest exploits](https://www.exploit-db.com/local/)
-* [ for  building your basics] (https://developer.microsoft.com/en-gb/)
+* [for  building your basics](https://developer.microsoft.com/en-gb/)
 ------
 
 ## Discovery
